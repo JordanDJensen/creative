@@ -1,0 +1,106 @@
+@media only screen and (max-width: 400px){
+  img{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+
+  }
+
+  .bg-image{
+    background-image: url("../images/converse.jpg");
+    width:380px;
+    height: 250px;
+    background-size: cover;
+  }
+
+  .feature{
+  margin-left: 25px;
+  }
+
+  li.nav-item {
+      padding: 20px;
+  }
+
+
+}
+@media only screen and (min-width: 961px){
+
+
+li.nav-item {
+    padding: 20px;
+}
+
+
+
+.bg-image{
+  background-image: url("../images/converse.jpg");
+  height: 770px;
+  background-size: cover;
+}
+
+img{
+  height: 350px;
+  width: 400px;
+  border: 2px solid black;
+}
+
+
+
+p{
+  color:gray;
+}
+
+
+/* All Around */
+}
+.navbar-custom{
+  background-color: black;
+}
+
+footer{
+  background-color: black;
+  height: 65px;
+  text-align: center;
+  color: white;
+  padding-top: 25px;
+
+}
+footer a{
+  color: white;
+}
+
+html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+h2{
+  margin-left: 25px;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.nav-link{
+  font-size: 20px;
+}
+
+.navbar-brand{
+  font-size: 30px;
+}
+
+.col-sm{
+  margin:25px;
+}
+
+.statement{
+  color: white;
+  font-size: 55px;
+  margin-left: 120px;
+  margin-top: 90px;
+  font-weight: bold;
+}

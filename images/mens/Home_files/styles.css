@@ -1,0 +1,45 @@
+
+
+
+ body{
+  font-family: 'Fjalla One', sans-serif;
+}
+
+
+
+li.nav-item {
+    padding: 20px;
+}
+.navbar-custom{
+  background-color: black;
+}
+
+
+.bg-image{
+  background-image: url("../images/converse.jpg");
+  height: 770px;
+  background-size: cover;
+}
+
+img{
+  height: 350px;
+  width: 360px;
+  border: 2px solid black;
+}
+
+h2{
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+p{
+  color:gray;
+}
+
+.nav-link{
+  font-size: 20px;
+}
+
+.navbar-brand{
+  font-size: 30px;
+}
